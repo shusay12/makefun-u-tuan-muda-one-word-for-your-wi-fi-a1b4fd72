@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+kit/
+transcripts.tar.gz
+BUILD-REPORT.md
+.output/
